@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fantom</h1>
 <h3 align="center">A passionate developer from Ukraine</h3>
-<img alight="right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fantomcvc&label=Profile%20views&color=0e75b6&style=flat" alt="fantomcvc" /> </p>
 
